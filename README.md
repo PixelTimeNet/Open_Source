@@ -1,9 +1,11 @@
-# Game
-### Don't Starve Together
+# Don't Starve Together
 ##### Mods
 - []() - 
 
-### Minecraft
+# Minecraft
+##### Mods
+- [ToggleSneak](https://github.com/PixelTimeNet/ToggleSneak) - Toggle Sneak for PVP.
+
 ##### Mechanism
 - [AnvilRestrict](https://github.com/PixelTimeNet/AnvilRestrict) - Restricting player's in-game anvil usage.
 - [BlockRestore](https://github.com/PixelTimeNet/BlockRestore) - Rollback terrain at your will.
@@ -39,11 +41,11 @@
 - [ForgeHandshake](https://github.com/McMoonLakeDev/ForgeHandshake) A Minecraft Forge Handshake Plugin.
 - [ldk](https://github.com/lgou2w/ldk) - A multi-platform lgou2w development kit.
 
-### Terraria
+# Terraria
 ##### Mods
 - []() - 
 
-### Unturned
+# Unturned
 ##### Mods
 - []() - 
 
